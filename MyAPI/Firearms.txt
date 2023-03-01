@@ -1,0 +1,1 @@
+[{"ManufacturerName":"HK","FirearmModelName":"HK416","FirearmType":"Assault Rifle","Caliber":"5.56x45mm"},{"ManufacturerName":"FN","FirearmModelName":"Five-seveN","FirearmType":"Pistol","Caliber":"5.7x28mm"}]

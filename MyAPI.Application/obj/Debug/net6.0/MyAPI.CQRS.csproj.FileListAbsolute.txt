@@ -1,0 +1,12 @@
+C:\Users\artur\source\repos\MyAPI\MyAPI.CQRS\bin\Debug\net6.0\MyAPI.CQRS.deps.json
+C:\Users\artur\source\repos\MyAPI\MyAPI.CQRS\bin\Debug\net6.0\MyAPI.CQRS.dll
+C:\Users\artur\source\repos\MyAPI\MyAPI.CQRS\bin\Debug\net6.0\MyAPI.CQRS.pdb
+C:\Users\artur\source\repos\MyAPI\MyAPI.CQRS\obj\Debug\net6.0\MyAPI.CQRS.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\MyAPI\MyAPI.CQRS\obj\Debug\net6.0\MyAPI.CQRS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\source\repos\MyAPI\MyAPI.CQRS\obj\Debug\net6.0\MyAPI.CQRS.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\MyAPI\MyAPI.CQRS\obj\Debug\net6.0\MyAPI.CQRS.AssemblyInfo.cs
+C:\Users\artur\source\repos\MyAPI\MyAPI.CQRS\obj\Debug\net6.0\MyAPI.CQRS.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\MyAPI\MyAPI.CQRS\obj\Debug\net6.0\MyAPI.CQRS.dll
+C:\Users\artur\source\repos\MyAPI\MyAPI.CQRS\obj\Debug\net6.0\refint\MyAPI.CQRS.dll
+C:\Users\artur\source\repos\MyAPI\MyAPI.CQRS\obj\Debug\net6.0\MyAPI.CQRS.pdb
+C:\Users\artur\source\repos\MyAPI\MyAPI.CQRS\obj\Debug\net6.0\ref\MyAPI.CQRS.dll

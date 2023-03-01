@@ -1,0 +1,1 @@
+[{"ManufacturerName":"FN","CountryOfOrigin":"Belgium","YearOfFounding":1887},{"ManufacturerName":"HK","CountryOfOrigin":"Germany","YearOfFounding":1949}]

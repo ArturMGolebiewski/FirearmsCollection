@@ -1,0 +1,14 @@
+C:\Users\artur\source\repos\MyAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\MyAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\source\repos\MyAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\MyAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\artur\source\repos\MyAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\MyAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\artur\source\repos\MyAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.runtimeconfig.json
+C:\Users\artur\source\repos\MyAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\artur\source\repos\MyAPI\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\artur\source\repos\MyAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\artur\source\repos\MyAPI\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Users\artur\source\repos\MyAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\artur\source\repos\MyAPI\Infrastructure\obj\Debug\net6.0\Infrastructure.genruntimeconfig.cache
+C:\Users\artur\source\repos\MyAPI\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

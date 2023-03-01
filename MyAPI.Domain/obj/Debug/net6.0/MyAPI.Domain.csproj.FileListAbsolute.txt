@@ -1,0 +1,12 @@
+C:\Users\artur\source\repos\MyAPI\MyAPI.Domain\bin\Debug\net6.0\MyAPI.Domain.deps.json
+C:\Users\artur\source\repos\MyAPI\MyAPI.Domain\bin\Debug\net6.0\MyAPI.Domain.dll
+C:\Users\artur\source\repos\MyAPI\MyAPI.Domain\bin\Debug\net6.0\MyAPI.Domain.pdb
+C:\Users\artur\source\repos\MyAPI\MyAPI.Domain\obj\Debug\net6.0\MyAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\artur\source\repos\MyAPI\MyAPI.Domain\obj\Debug\net6.0\MyAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\source\repos\MyAPI\MyAPI.Domain\obj\Debug\net6.0\MyAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\artur\source\repos\MyAPI\MyAPI.Domain\obj\Debug\net6.0\MyAPI.Domain.AssemblyInfo.cs
+C:\Users\artur\source\repos\MyAPI\MyAPI.Domain\obj\Debug\net6.0\MyAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\artur\source\repos\MyAPI\MyAPI.Domain\obj\Debug\net6.0\MyAPI.Domain.dll
+C:\Users\artur\source\repos\MyAPI\MyAPI.Domain\obj\Debug\net6.0\refint\MyAPI.Domain.dll
+C:\Users\artur\source\repos\MyAPI\MyAPI.Domain\obj\Debug\net6.0\MyAPI.Domain.pdb
+C:\Users\artur\source\repos\MyAPI\MyAPI.Domain\obj\Debug\net6.0\ref\MyAPI.Domain.dll
